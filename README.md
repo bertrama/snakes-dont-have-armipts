@@ -14,4 +14,5 @@
     2. [toggl-cli](https://github.com/mlibrary/toggl-cli)
     3. [bash script to connect the two](https://github.com/bertrama/snakes-dont-have-armipts/blob/master/gcal2toggl.sh)
     4. [auto_toggl](https://github.com/grosscol/auto_toggl)
-    5. 
+    5. [Export trello to markdown-ish](https://github.com/mlibrary/card-castle)
+    6. 
